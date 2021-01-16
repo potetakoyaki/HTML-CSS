@@ -1,0 +1,27 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  background-color: red;
+  margin: 30px;
+  padding: 30px;
+}
+/*  コマンド/でコメントが入力できる */
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  /* プロパティは太さ、実線 */
+  border: 5px solid yellow;
+}
+.box3 {
+  width: 200px;
+  height: 50px;
+  background-color: chartreuse;
+  border: dashed white;
+  border-top-width: 5px;
+  border-right-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  margin: 15px 10px 5px;
+  padding: 15px;
+}
